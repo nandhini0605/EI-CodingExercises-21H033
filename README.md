@@ -42,7 +42,6 @@ Use Case: A file system where directories can contain files and other directorie
 **OVERVIEW:**
 
 The Virtual Classroom Manager is a command-line application designed to facilitate the management of virtual classrooms. It allows administrators to create classrooms, enroll students, schedule assignments, 
-
 submit assignments, and manage resources specific to each class.
 
 **FEATURES:**
