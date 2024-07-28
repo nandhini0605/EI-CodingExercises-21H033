@@ -1,0 +1,163 @@
+2024-07-26 22:43:43 - Virtual Classroom Manager Started
+2024-07-26 22:51:22 - Virtual Classroom Manager Started
+2024-07-26 22:52:26 - Virtual Classroom Manager Started
+2024-07-27 18:13:23 - Virtual Classroom Manager Started
+2024-07-27 18:16:50 - Classroom PHYSICS created.
+2024-07-27 18:17:19 - Student 21H033 enrolled in PHYSICS
+2024-07-27 18:18:41 - Assignment scheduled for PHYSICS
+2024-07-28 13:32:19 - Virtual Classroom Manager Started
+2024-07-28 13:32:37 - Classroom Math101 created.
+2024-07-28 13:33:02 - Classroom Science201 created.
+2024-07-28 13:33:30 - Student 21H033 enrolled in Math101
+2024-07-28 13:33:54 - Student 21H036 enrolled in Science201
+2024-07-28 13:34:21 - Classroom English301 not found.
+2024-07-28 13:35:23 - Assignment scheduled for Math101
+2024-07-28 13:36:18 - Assignment scheduled for Science201
+2024-07-28 13:37:16 - Assignment submitted by Student 21H033 in Math101
+2024-07-28 13:37:55 - Assignment submitted by Student 21H036 in Math101
+2024-07-28 13:52:45 - Assignment submitted by Student 21H036 in Math101
+2024-07-28 13:53:51 - Error: Invalid student ID or classroom name.
+2024-07-28 13:58:02 - Virtual Classroom Manager Started
+2024-07-28 13:58:21 - Classroom PHYSICS created.
+2024-07-28 13:58:54 - Student 21H033 enrolled in PHYSICS
+2024-07-28 14:00:00 - Assignment scheduled for PHYSICS
+2024-07-28 14:00:56 - Error: Student 21H034 is not enrolled in PHYSICS.
+2024-07-28 14:31:09 - Classroom MATHS created.
+2024-07-28 14:31:41 - Student 21H045 enrolled in MATHS
+2024-07-28 14:32:12 - Error: Student 21H045 is not enrolled in PHYSICS.
+2024-07-28 14:45:42 - Virtual Classroom Manager Started
+2024-07-28 14:45:58 - Classroom Math101 created.
+2024-07-28 14:46:08 - Classroom Science201 created.
+2024-07-28 14:46:17 - Student 12345 enrolled in Math101
+2024-07-28 14:46:25 - Student 67890 enrolled in Science201
+2024-07-28 14:46:36 - Assignment scheduled for Math101
+2024-07-28 14:46:49 - Assignment scheduled for Science201
+2024-07-28 14:47:50 - Error: Student 67890 is not enrolled in Math101.
+2024-07-28 14:48:09 - Assignment submitted by Student 12345 in Math101
+2024-07-28 14:48:30 - Assignment submitted by Student 67890 in Science201
+2024-07-28 14:55:41 - Classroom CSC created.
+2024-07-28 14:55:56 - Student 12345 enrolled in CSC
+2024-07-28 14:57:09 - Assignment scheduled for CSC
+2024-07-28 14:57:54 - Error: Student 67890 is not enrolled in CSC.
+2024-07-28 14:58:09 - Assignment submitted by Student 12345 in CSC
+2024-07-28 15:05:36 - Student 67890 enrolled in CSC
+2024-07-28 15:40:03 - Student 21H033 enrolled in CSC
+2024-07-28 15:48:14 - Error: Index 1 out of bounds for length 1
+2024-07-28 15:49:23 - Classroom nans not found.
+2024-07-28 16:19:35 - Virtual Classroom Manager Started
+2024-07-28 16:20:30 - Classroom csbs created.
+2024-07-28 16:20:44 - Student 21H001 enrolled in csbs
+2024-07-28 16:20:54 - Student 21H002 enrolled in csbs
+2024-07-28 16:21:05 - Exiting Virtual Classroom Manager.
+2024-07-28 18:20:12 - Virtual Classroom Manager Started
+2024-07-28 18:20:36 - Classroom csbs created.
+2024-07-28 18:21:00 - Student 21H001 enrolled in csbs
+2024-07-28 18:23:16 - Assignment scheduled for csbs
+2024-07-28 18:27:37 - Virtual Classroom Manager Started
+2024-07-28 18:27:44 - Classroom csbs created.
+2024-07-28 18:27:54 - Student 21H001 enrolled in csbs
+2024-07-28 18:28:02 - Assignment scheduled for csbs
+2024-07-28 18:28:07 - Resource added: "buy
+2024-07-28 18:28:44 - Error: Index 1 out of bounds for length 1
+2024-07-28 18:33:42 - Virtual Classroom Manager Started
+2024-07-28 18:33:48 - Classroom csbs created.
+2024-07-28 18:33:51 - Error: Index 1 out of bounds for length 1
+2024-07-28 18:36:04 - Virtual Classroom Manager Started
+2024-07-28 18:36:18 - Classroom csbs created.
+2024-07-28 18:38:40 - Virtual Classroom Manager Started
+2024-07-28 18:38:43 - Received command: add_classroom csbs
+2024-07-28 18:38:43 - Classroom csbs created.
+2024-07-28 18:38:56 - Received command: add_student 21H001 csbs
+2024-07-28 18:40:58 - Virtual Classroom Manager Started
+2024-07-28 18:41:01 - Received command: add_classroom csbs
+2024-07-28 18:41:01 - Classroom csbs created.
+2024-07-28 18:41:05 - Received command: add_student 21H001 csbs
+2024-07-28 18:45:54 - Virtual Classroom Manager Started
+2024-07-28 18:45:59 - Received command: add_classroom csbs
+2024-07-28 18:45:59 - Classroom csbs created.
+2024-07-28 18:46:02 - Received command: add_student 21H001 csbs
+2024-07-28 18:47:33 - Virtual Classroom Manager Started
+2024-07-28 18:47:38 - Received command: add_classroom csbs
+2024-07-28 18:47:38 - Classroom csbs created.
+2024-07-28 18:47:42 - Received command: add_student 21H001 csbs
+2024-07-28 18:47:42 - Student 21H001 enrolled in csbs
+2024-07-28 18:48:31 - Received command: schedule_assignment csbs "Assignment 1: Leetcode questions"
+2024-07-28 18:49:42 - Virtual Classroom Manager Started
+2024-07-28 18:49:46 - Received command: add_classroom csbs
+2024-07-28 18:49:47 - Classroom csbs created.
+2024-07-28 18:49:50 - Received command: add_student 21H001 csbs
+2024-07-28 18:49:50 - Student 21H001 enrolled in csbs
+2024-07-28 18:49:55 - Received command: schedule_assignment csbs "Assignment 1: Leetcode questions"
+2024-07-28 18:53:00 - Virtual Classroom Manager Started
+2024-07-28 18:53:04 - Received command: add_classroom csbs
+2024-07-28 18:53:04 - Classroom csbs created.
+2024-07-28 18:53:10 - Received command: add_student 21H001 csbs
+2024-07-28 18:53:10 - Student 21H001 enrolled in csbs
+2024-07-28 18:53:22 - Received command: schedule_assignment csbs "Assignment 1: Leetcode questions"
+2024-07-28 18:53:23 - Assignment scheduled for csbs
+2024-07-28 18:53:58 - Received command: add_resource "buy and sell stock" "reference article" "https://takeuforward.org/data-structure/stock-buy-and-sell/"
+2024-07-28 18:53:58 - Resource added: buy and sell stock
+2024-07-28 18:55:07 - Received command: submit_assignment 21H001 csbs "Assignment 1: Leetcode questions, Submitted"
+2024-07-28 18:55:07 - Assignment submitted by Student 21H001 in csbs
+2024-07-28 18:56:06 - Received command: list_resources
+2024-07-28 19:11:20 - Virtual Classroom Manager Started
+2024-07-28 19:11:25 - Received command: add_classroom csbs
+2024-07-28 19:11:26 - Classroom csbs created.
+2024-07-28 19:11:29 - Received command: add_student 21H001 csbs
+2024-07-28 19:11:29 - Student 21H001 enrolled in csbs
+2024-07-28 19:11:48 - Received command: schedule_assignment csbs "Assignment 1: Leetcode questions"
+2024-07-28 19:11:49 - Assignment scheduled for csbs
+2024-07-28 19:12:05 - Received command: add_resource "buy and sell stock" "reference article" "https://takeuforward.org/data-structure/stock-buy-and-sell/"
+2024-07-28 19:12:14 - Received command: add_resource "buy and sell stock" "reference article" "https://takeuforward.org/data-structure/stock-buy-and-sell/" csbs
+2024-07-28 19:12:31 - Received command: add_resource "buy and sell stock" "reference article" "https://takeuforward.org/data-structure/stock-buy-and-sell/" "csbs"
+2024-07-28 19:14:30 - Virtual Classroom Manager Started
+2024-07-28 19:14:35 - Received command: add_classroom csbs
+2024-07-28 19:14:36 - Classroom csbs created.
+2024-07-28 19:14:42 - Received command: add_student 21H001 csbs
+2024-07-28 19:14:42 - Student 21H001 enrolled in csbs
+2024-07-28 19:14:46 - Received command: schedule_assignment csbs "Assignment 1: Leetcode questions"
+2024-07-28 19:14:46 - Assignment scheduled for csbs
+2024-07-28 19:15:04 - Received command: add_resource "buy and sell stock" "reference article" "https://takeuforward.org/data-structure/stock-buy-and-sell/" csbs
+2024-07-28 19:15:04 - Resource added to class csbs: buy and sell stock
+2024-07-28 19:15:38 - Received command: list_resources csbs
+2024-07-28 19:16:22 - Received command: submit_assignment 21H001 csbs "Assignment 1: Leetcode questions, Submitted"
+2024-07-28 19:16:22 - Assignment submitted by Student 21H001 in csbs
+2024-07-28 19:17:48 - Received command: exit
+2024-07-28 19:17:48 - Exiting Virtual Classroom Manager.
+2024-07-28 19:18:26 - Virtual Classroom Manager Started
+2024-07-28 19:18:33 - Received command: add_classroom it
+2024-07-28 19:18:33 - Classroom it created.
+2024-07-28 19:18:50 - Received command: add_student 21IT001 it
+2024-07-28 19:18:50 - Student 21IT001 enrolled in it
+2024-07-28 19:19:14 - Received command: add_classroom csbs
+2024-07-28 19:19:14 - Classroom csbs created.
+2024-07-28 19:19:19 - Received command: add_student 21H001 csbs
+2024-07-28 19:19:19 - Student 21H001 enrolled in csbs
+2024-07-28 19:19:32 - Received command: schedule_assignment csbs "Assignment 1: Leetcode questions"
+2024-07-28 19:19:32 - Assignment scheduled for csbs
+2024-07-28 19:20:34 - Received command: submit_assignment 21IT001 csbs "Assignment 1: Leetcode questions, Submitted"
+2024-07-28 19:20:34 - Error: Student 21IT001 is not enrolled in csbs.
+2024-07-28 19:21:23 - Received command: schedule_assignment it "Assignment 1: Hackerrank questions"
+2024-07-28 19:21:23 - Assignment scheduled for it
+2024-07-28 19:21:46 - Received command: add_resource "buy and sell stock" "reference article" "https://takeuforward.org/data-structure/stock-buy-and-sell/" csbs
+2024-07-28 19:21:46 - Resource added to class csbs: buy and sell stock
+2024-07-28 19:23:14 - Received command: add_resource "2 sum" "reference article" "https://takeuforward.org/data-structure/two-sum-check-if-a-pair-with-given-sum-exists-in-array/" it
+2024-07-28 19:23:14 - Resource added to class it: 2 sum
+2024-07-28 19:23:32 - Received command: list_resources csbs
+2024-07-28 19:23:38 - Received command: list_resources it
+2024-07-28 19:24:18 - Received command: submit_assignment 21H001 csbs "Assignment 1: Leetcode questions, Submitted"
+2024-07-28 19:24:18 - Assignment submitted by Student 21H001 in csbs
+2024-07-28 19:24:47 - Received command: submit_assignment 21IT001 csbs "Assignment 1: Hackerrank questions, Submitted"
+2024-07-28 19:24:47 - Error: Student 21IT001 is not enrolled in csbs.
+2024-07-28 19:25:02 - Received command: submit_assignment 21IT001 it "Assignment 1: Hackerrank questions, Submitted"
+2024-07-28 19:25:02 - Assignment submitted by Student 21IT001 in it
+2024-07-28 19:25:05 - Received command: exit
+2024-07-28 19:25:05 - Exiting Virtual Classroom Manager.
+2024-07-28 19:27:53 - Virtual Classroom Manager Started
+2024-07-28 19:28:02 - Received command: add_classroom
+2024-07-28 21:09:36 - Virtual Classroom Manager Started
+2024-07-28 21:10:45 - Virtual Classroom Manager Started
+2024-07-28 21:11:10 - Received command: add_classroom cse
+2024-07-28 21:11:10 - Classroom cse created.
+2024-07-28 21:11:19 - Received command: exit
+2024-07-28 21:11:19 - Exiting Virtual Classroom Manager.
