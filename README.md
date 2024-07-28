@@ -53,3 +53,59 @@ Enroll Students: Add students to classrooms for easy access and tracking.
 Schedule and Submit Assignments: Schedule assignments for classes and allow students to submit their work.
 
 Resource Management: Add resources specific to each classroom, accessible only to enrolled students.
+
+**COMMANDS USAGE:**
+
+**1. Add Classroom**
+
+Command: add_classroom <className>
+
+Description: Creates a new classroom with the specified name.
+
+Example: add_classroom csbs
+
+**2. Add Student**
+
+Command: add_student <studentId> <className>
+
+Description: Enrolls a student in the specified classroom using the student's ID.
+
+Example: add_student 21H033 csbs
+
+**3. Schedule Assignment**
+
+Command: schedule_assignment <className> <details>
+
+Description: Schedules an assignment for the specified classroom with the given details.
+
+Example: schedule_assignment csbs "Assignment 1: Leetcode questions"
+
+**4. Submit Assignment**
+
+Command: submit_assignment <studentId> <className> <details>
+
+Description: Submits an assignment for a specific student in the specified classroom.
+
+Example: submit_assignment 21H033 csbs "Submitted Assignment 1"
+
+**5. Add Resource**
+
+Command: add_resource <title> <description> <link> <className>
+
+Description: Adds a resource to a specific classroom, including the title, description, and URL.
+
+Example: add_resource "Stock Market Basics" "An article on stock market basics" "https://example.com/stock-market" csbs
+
+**6. List Resources**
+
+Command: list_resources <className>
+
+Description: Lists all resources available for the specified classroom.
+
+Example: list_resources csbs
+
+**7. Exit Application**
+
+Command: exit
+
+Description: Exits the Virtual Classroom Manager application.
