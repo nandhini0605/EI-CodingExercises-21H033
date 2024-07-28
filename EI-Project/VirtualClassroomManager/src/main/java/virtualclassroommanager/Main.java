@@ -78,6 +78,8 @@ public class Main {
                             } else {
                                 System.out.println("Invalid command. Usage: list_resources <className>");
                             }
+                        case "list_classrooms":  
+                            manager.listClassrooms();
                             break;
                         default:
                             System.out.println("Invalid command. Please try again.");

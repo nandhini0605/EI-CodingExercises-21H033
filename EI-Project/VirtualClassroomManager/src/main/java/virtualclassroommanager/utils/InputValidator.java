@@ -23,6 +23,7 @@ public class InputValidator {
                 // Adjust to check for proper command structure
                 return parts.length >= 2 && command.contains("\"");
             case "list_resources":
+            case "list_classrooms":
             case "exit":
                 return true;
             default:

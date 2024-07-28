@@ -92,6 +92,15 @@ public class ClassroomManager {
                      });
         } 
     }
+
+    public void listClassrooms() {
+        if (classrooms.isEmpty()) {
+            System.out.println("No classrooms available.");
+        } else {
+            System.out.println("Available Classrooms:");
+            classrooms.forEach(classroom -> System.out.println("- " + classroom.getName()));
+        }
+    }    
     
 
     private Classroom findClassroom(String name) {
