@@ -84,7 +84,21 @@ Example:
 add_student 21H033 csbs
 ```
 
-**3. Schedule Assignment**
+**3. List Classrooms**
+
+Command:
+```
+list_classrooms
+```
+Description:
+Lists all the available classrooms.
+
+Example:
+```
+list_classrooms
+```
+
+**4. Schedule Assignment**
 
 Command:
 ```
@@ -98,7 +112,7 @@ Example:
 schedule_assignment csbs "Assignment 1: Leetcode questions"
 ```
 
-**4. Submit Assignment**
+**5. Submit Assignment**
 
 Command:
 ```
@@ -112,7 +126,7 @@ Example:
 submit_assignment 21H033 csbs "Solution for Assignment 1"
 ```
 
-**5. Add Resource**
+**6. Add Resource**
 
 Command:
 ```
@@ -126,7 +140,7 @@ Example:
 add_resource "Stock Market Basics" "An article on stock market basics" "https://example.com/stock-market" csbs
 ```
 
-**6. List Resources**
+**7. List Resources**
 
 Command:
 ```
@@ -140,7 +154,7 @@ Example:
 list_resources csbs
 ```
 
-**7. Exit Application**
+**8. Exit Application**
 
 Command:
 ```
