@@ -1,8 +1,8 @@
-Exerxise 1
+**EXERCISE 1**
 
-Design Patterns in Java
+**DESIGN PATTERNS**
 
-Behavioral Design Patterns
+**BEHAVIORAL DESIGN PATTERNS:**
 
 Observer Pattern
 
@@ -13,7 +13,7 @@ Strategy Pattern
 Use Case: A payment processing system that supports different payment methods like credit card, PayPal, and Bitcoin.
 
 
-Creational Design Patterns
+**CREATIONAL DESIGN PATTERNS:**
 
 Singleton Pattern
 
@@ -24,7 +24,7 @@ Factory Method Pattern
 Use Case: A simple document editor that can create different types of documents like Word, PDF, and Text.
 
 
-Structural Design Patterns
+**STRUCTURAL DESIGN PATTERNS:**
 
 Adapter Pattern
 
@@ -35,17 +35,17 @@ Composite Pattern
 Use Case: A file system where directories can contain files and other directories.
 
 
-Exercise 2
+**EXERCISE 2**
 
-Virtual Classroom Manager
+**VIRTUAL CLASSROOM MANAGER**
 
-Overview
+**OVERVIEW:**
 
 The Virtual Classroom Manager is a command-line application designed to facilitate the management of virtual classrooms. It allows administrators to create classrooms, enroll students, schedule assignments, 
 
 submit assignments, and manage resources specific to each class.
 
-Features:
+**FEATURES:**
 
 Create Classrooms: Easily create and manage multiple classrooms.
 
